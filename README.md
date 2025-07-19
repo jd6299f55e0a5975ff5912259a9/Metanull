@@ -22,7 +22,7 @@ Meta Null is a professional tool designed to completely remove all identifiable 
 ### 3. **Clone the Repository**
    - In your terminal, run:
      ```bash
-     git clone https://github.com/jd6299f55e0a5975ff5912259a9/metanull
+     git clone https://github.com/jd6299f55e0a5975ff5912259a9/Metanull
      cd metanull
      ```
 
